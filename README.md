@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurumbeling
 - 👀 I’m interested in coding, helping others, and experimenting
-- 🌱 I’m currently learning CodeIgniter 3
+- 🌱 I’m currently learning CodeIgniter
 - 💞️ I’m looking to collaborate on Web Application
 - 📫 How to reach me : 
       > Gmail     : iamgurumbeling@gmail.com
